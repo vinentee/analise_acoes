@@ -17,7 +17,9 @@ Execute o arquivo Python em um ambiente Python.
 
 O programa carregará automaticamente os dados do arquivo CSV especificado.
 
-Os dados serão filtrados para o período desejado. Você pode ajustar o período modificando as datas na variável mask.
+Os dados serão filtrados para o período desejado.
+
+Você pode ajustar o período modificando as datas na variável mask.
 
 Serão exibidos dois gráficos:
 
